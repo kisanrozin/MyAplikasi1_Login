@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Aplikasi1</string>
+    <string name="welcome_to_the_second_screen">Welcome to the second screen!</string>
+    <string name="logo">Logo</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="selamat_datang">SELAMAT DATANG !!!!</string>
+</resources>
